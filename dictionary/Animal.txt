@@ -1,0 +1,8 @@
+The biggest animal?|Blue Whale
+The animal with no feets?|Snake
+The king of the jungle?|Lion
+The king of the sky?|Eagle
+
+The smartest animal?|Dolphin
+
+The slowest animal?|Snail
